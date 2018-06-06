@@ -1,0 +1,32 @@
+.head{
+	width:200px;
+	height: 200px;
+	border: 1px solid #000;
+	background: red;
+	text-align: center;
+}
+.main{
+	width:200px;
+	background: yellow;
+	overflow: hidden;
+}
+.blue-box{
+	width: 20px;
+	height: 20px;
+	float: left;
+	background: #2d2d2d;
+	margin: 10px;
+}
+.footer{
+	width: 200px;
+	height: 200px;
+	background: #f1f1f1;
+	overflow: hidden;
+}
+.red-box{
+	width: 30px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	top:20px;
+}
