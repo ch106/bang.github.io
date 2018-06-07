@@ -5,17 +5,34 @@
 	height: 100vh;
 }
 .first{
-	height: 40px;
+	height: 60px;
 	width: 1024px;
 	position: absolute;
 	top:0;
+	border-bottom:1px solid #fff;
+	background: transparent;
+}
+.headl{
+	margin:17px 17px;
+	color:#fff;
+}
+.headl img{
+	float:left;
+	margin-right: 15px;
+}
+..headl-text{
+	float: left;
+}
+.headm{
+	float: left;
+	margin:auto;
 }
 .second{
 	width: 1024px;
 	/*height: 100vh;*/
 	overflow: hidden;
 	margin-top: 0;
-	height: 700px;
+	height: 640px;
 	margin:0 auto;
 	background: #192314;
 	position: relative;
