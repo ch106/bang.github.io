@@ -9,34 +9,36 @@
 	width: 1024px;
 	position: absolute;
 	top:0;
-	border-bottom:1px solid #fff;
+	border-bottom:0px solid #fff;
 	background: transparent;
 }
 .headl{
 	color:#fff;
 }
 .headl-img{
-	margin:17px 17px;
+	margin:17px 22px;
 	float:left;
 	margin-right: 15px;
 }
 .headl-text{
-	margin:17px 17px;
+	margin:17px 22px;
 	float: left;
+	font-size: 12px;
 }
 .headm{
 	float: left;
 	margin-top:17px;
-	margin-left:340px;
+	margin-left:350px;
 	letter-spacing: 1.7px;
 }
 .headr-img{
-	margin:17px 17px;
+	margin:17px 22px;
 	float: right;
 }
 .headr-text{
-	margin:17px 17px;
+	margin:17px 22px;
 	float: right;
+	font-size: 12px;
 }
 .second{
 	width: 1024px;
