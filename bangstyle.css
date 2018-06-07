@@ -27,9 +27,10 @@
 }
 .headm{
 	float: left;
-	margin-top:17px;
-	margin-left:350px;
+	margin-top:15px;
+	margin-left:320px;
 	letter-spacing: 1.7px;
+	font-size:20px;
 }
 .headr-img{
 	margin:17px 22px;
@@ -146,4 +147,179 @@
 	float:left;
 	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/earset/earset-subtile1.jpg);
 	background-size: 100%;
+}
+.beostories{
+	text-align: center;
+	width:1024px;
+	margin:120px auto 100px;
+}
+.beostories h6{
+	margin:12px 0px 18px 0px;
+	height: 13px;
+	font-size: 11px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+.beostories h2{
+	margin:25px 0px 40px 0px;
+	height: 120px;
+	font-size:50px;
+	font-weight: normal;
+	letter-spacing: 4px;
+}
+.products{
+	width:1024px;
+	height:354px;
+	margin:0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	color:#fff;
+	/*border:1px solid red;*/
+}
+.product-item{
+	width:341px;
+	height:177px;
+}
+.product-item:nth-child(1){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/slider/beosound-shape/green-beosound-shape-desktop.jpg);
+	background-size: 100% 120%;
+}
+.product-item:nth-child(2){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/categories/televisions/beovision-eclipse-mobile.jpg?mw=450&hash=DBD0C5F92B1BD679284B702D0B6AC116F3AA7EFB);
+	background-size: 100% 120%;
+}
+.product-item:nth-child(3){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/categories/speakers/beolab-50-mobile.jpg?mw=450&hash=8884C771C66F751431233617B6229032793D51A8);
+	background-size: 100% 120%;
+}
+.product-item:nth-child(4){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/categories/portable-bluetooth-speakers/beoplay-p6-categories-mobile-2.jpg?mw=450&hash=8C8E0FAF78777CDCBE733347D043C64083EB14EF);
+	background-size: 100% 120%;
+}
+.product-item:nth-child(5){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/categories/sound-systems/beosound-core-mobile.jpg?mw=450&hash=3D9049CBD1EDD5B7774213A4E1262929FE159861);
+	background-size: 100% 120%;
+}
+.product-item:nth-child(6){
+	background: url(https://www.bang-olufsen.com/~/mediaV3/home/frontpage/categories/headphones/beoplay-h9i-mobile.jpg?mw=450&hash=405EC5A1CF5A655A720998AB12AC75B5D6CDB210);
+	background-size: 100% 120%;
+}
+.new-stroies{
+	width:1024px;
+	height:360px;
+	margin:0 auto;
+	display:flex;
+}
+.stroies{
+	width:228px;
+	height:340px;
+}
+.last-stroies{
+	width:565px;
+	height:340px;
+}
+.stroies img{
+	width:229px;
+	height:221px;
+}
+.last-stroies img{
+	width:566px;
+	height:221px;
+}
+.new-stroies h5{
+	font-size:16px;
+	margin-bottom:12px;
+	margin-top:30px;
+}
+.stroies-text{
+	font-size:13px;
+	line-height: 21px;
+}
+.footer{
+	width:1024px;
+	height:470px;
+	margin:120px auto 0;
+	display: flex;
+}
+.footer-left{
+	width:512px;
+	height:470px;
+	border:1px solid #fbfbfb;
+}
+.footer__ctacell{
+	margin-top:89px;
+	text-align: center;
+}
+.footer-right{
+	width:512px;
+	height:470px;
+	border:1px solid #fbfbfb;
+}
+.footer-img{
+	width:51px;
+	height:51px;
+	background-color:black;
+	background-image: url(news.png);
+	background-size: 30px 30px;
+	background-position: 9px 9px;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin-bottom: 28px;
+	margin-left: 229px;
+}
+.footer-img2{
+	width:51px;
+	height:51px;
+	background-color:black;
+	background-image: url(location.png);
+	background-size: 30px 30px;
+	background-position: 9px 9px;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin-bottom: 28px;
+	margin-left: 229px;
+}
+.footer h3{
+	margin-bottom: 28px;
+	font-size:13px;
+	font-weight:normal;
+}
+.footer h6{
+	font-size: 13px;
+	color: #888;
+	font-weight: normal;
+	margin-bottom: 18px;
+}
+.text{
+	width:352px;
+	height:42px;
+	border:1px solid #e6e6e6;
+	padding:6px 12px;
+	margin:12px 63px;
+	background:#fff;
+}
+.btn{
+	width: 180px;
+	height: 35px;
+	margin:20px 163px;
+	background: #e6e6e6;
+	border:0;
+	text-align: center;
+}
+.search{
+	width: 180px;
+	height: 35px;
+	margin:104px 163px;
+	background: #e6e6e6;
+	border:0;
+	text-align: center;
+}
+.bottom{
+	width:1024px;
+	height:50px;
+	margin:10px auto 10px;
+}
+.bottom img{
+	width:1024px;
+	height:50px;
 }
