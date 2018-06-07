@@ -13,19 +13,21 @@
 	background: transparent;
 }
 .headl{
-	margin:17px 17px;
 	color:#fff;
 }
 .headl img{
+	margin:17px 17px;
 	float:left;
 	margin-right: 15px;
 }
-..headl-text{
+.headl-text{
+	margin:17px 17px;
 	float: left;
 }
 .headm{
 	float: left;
-	margin:auto;
+	margin-top:17px;
+	margin-left:350px;
 }
 .second{
 	width: 1024px;
