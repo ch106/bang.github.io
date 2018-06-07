@@ -15,7 +15,7 @@
 .headl{
 	color:#fff;
 }
-.headl img{
+.headl-img{
 	margin:17px 17px;
 	float:left;
 	margin-right: 15px;
@@ -28,6 +28,14 @@
 	float: left;
 	margin-top:17px;
 	margin-left:350px;
+}
+.headr-img{
+	margin:17px 17px;
+	float: right;
+}
+.headr-text{
+	margin:17px 17px;
+	float: right;
 }
 .second{
 	width: 1024px;
