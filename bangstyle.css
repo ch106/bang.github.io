@@ -381,6 +381,7 @@
 .bottom p {
     margin-left: 32px;
     font-size: 12px;
+    margin-top:4px;
     letter-spacing: 2px;
 }
 
@@ -394,6 +395,7 @@
 .bottom .item {
     float: right;
     font-size: 12px;
+    margin-top:4px;
     letter-spacing: 2px;
     margin-left: 16px;
 }
